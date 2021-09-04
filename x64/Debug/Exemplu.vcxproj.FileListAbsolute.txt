@@ -1,0 +1,2 @@
+C:\Users\rohat\source\repos\Exemplu\x64\Debug\Exemplu.exe
+C:\Users\rohat\source\repos\Exemplu\x64\Debug\Exemplu.pdb

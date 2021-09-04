@@ -1,0 +1,13 @@
+﻿  Polynomial.cpp
+C:\Users\rohat\source\repos\Exemplu\Polynomial.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohat\source\repos\Exemplu\Polynomial.cpp(23,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohat\source\repos\Exemplu\Polynomial.cpp(26,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohat\source\repos\Exemplu\Polynomial.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohat\source\repos\Exemplu\Polynomial.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohat\source\repos\Exemplu\Polynomial.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohat\source\repos\Exemplu\Polynomial.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohat\source\repos\Exemplu\Polynomial.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohat\source\repos\Exemplu\Polynomial.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+  ZeroDegreePolynomial.cpp
+  Generating Code...
+  Exemplu.vcxproj -> C:\Users\rohat\source\repos\Exemplu\Debug\Exemplu.exe

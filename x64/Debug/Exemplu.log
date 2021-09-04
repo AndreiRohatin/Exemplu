@@ -1,0 +1,32 @@
+﻿  Exemplu.cpp
+C:\Users\rohat\source\repos\Exemplu\Polynomial.h(19,12): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rohat\source\repos\Exemplu\Exemplu.cpp(19,75): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rohat\source\repos\Exemplu\Exemplu.cpp(103,41): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\rohat\source\repos\Exemplu\Exemplu.cpp(103,56): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\rohat\source\repos\Exemplu\Exemplu.cpp(114,49): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\rohat\source\repos\Exemplu\Exemplu.cpp(114,66): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\rohat\source\repos\Exemplu\Exemplu.cpp(72,16): warning C4101: 'val1': unreferenced local variable
+C:\Users\rohat\source\repos\Exemplu\Exemplu.cpp(72,22): warning C4101: 'val2': unreferenced local variable
+C:\Users\rohat\source\repos\Exemplu\Exemplu.cpp(84,44): warning C4101: 'e': unreferenced local variable
+C:\Users\rohat\source\repos\Exemplu\Exemplu.cpp(95,45): warning C4101: 'e': unreferenced local variable
+C:\Users\rohat\source\repos\Exemplu\Exemplu.cpp(105,45): warning C4101: 'e': unreferenced local variable
+C:\Users\rohat\source\repos\Exemplu\Exemplu.cpp(116,45): warning C4101: 'e': unreferenced local variable
+C:\Users\rohat\source\repos\Exemplu\Exemplu.cpp(127,45): warning C4101: 'e': unreferenced local variable
+C:\Users\rohat\source\repos\Exemplu\Exemplu.cpp(136,45): warning C4101: 'e': unreferenced local variable
+  Exemplu.vcxproj -> C:\Users\rohat\source\repos\Exemplu\x64\Debug\Exemplu.exe
